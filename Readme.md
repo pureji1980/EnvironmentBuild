@@ -1,11 +1,11 @@
-#環境
+*環境
 <ul>
   <li>CentOS 6</li>
   <li>node v10.15.0</li>
   <li>npm  v6.9.0</li>
 </ul>
 
-#利用したいパッケージ
+*利用したいパッケージ
 <table>
   <tr><td>パッケージ名</td><td>バージョン</td><td>概要</td></tr>
   <tr><td>JQuery</td><td>v3.4.1</td><td></td></tr>
